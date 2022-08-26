@@ -172,7 +172,7 @@ node .
 ## `--self`
 * Activate self mode (Ignores other)
 
-## `--pconly`
+## `--pconly`see
 * If that chat not from private bot, bot will ignore
 
 ## `--gconly`
